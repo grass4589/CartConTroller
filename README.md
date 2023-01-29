@@ -15,5 +15,5 @@ getgenv().cartsettings = {
     downbuttonname = "Down", -- the name of the down button, usually doesnt need to be changed
     onbuttonname = "On" -- the name of the on button, usually doesnt need to be changed
 }
-loadstring(game:HttpGet("https://github.com/grass4589/CartConTroller/blob/main/main.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/grass4589/CartConTroller/main/main.lua"))();
 ```
