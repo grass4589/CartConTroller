@@ -17,3 +17,7 @@ getgenv().cartsettings = {
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/grass4589/CartConTroller/main/main.lua"))();
 ```
+
+then you should be greeted by the worst looking ui ever\
+![terrible ui design](https://github.com/grass4589/CartConTroller/blob/main/image.png)\
+leave the username box blank to control all carts at the same time or type a username to control the cart the user is sitting in
